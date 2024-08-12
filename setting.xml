@@ -1,0 +1,7 @@
+<servers>
+    <server>
+        <id>maven-releases</id>
+        <username>admin</username>
+        <password>Sohail@619</password>
+    </server>
+</servers>
