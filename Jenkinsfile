@@ -11,8 +11,8 @@ pipeline {
         NEXUS_VERSION = "nexus3"
         NEXUS_PROTOCOL = "http"
         NEXUS_URL = "18.215.161.156:8081"
-        NEXUS_REPOSITORY = "maven-release"
-	NEXUS_REPO_ID    = "maven-release"
+        NEXUS_REPOSITORY = "Myrepo"
+	NEXUS_REPO_ID    = "Myrepo"
         NEXUS_CREDENTIAL_ID = "Nexus"
         ARTVERSION = "${env.BUILD_ID}"
     }
